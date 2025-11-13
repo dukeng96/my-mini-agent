@@ -1,6 +1,6 @@
 # Mini Agent
 
-[English](./README.md) | 中文
+[English](./README.md) | 中文 ...
 
 **Mini Agent** 是一个极简但专业的演示项目，旨在展示使用 MiniMax M2 模型构建 Agent 的最佳实践。项目通过兼容 Anthropic 的 API，完全支持交错思维（interleaved thinking），从而解锁 M2 模型在处理长而复杂的任务时强大的推理能力。
 
